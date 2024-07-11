@@ -1,1 +1,1 @@
-Api_key = "7495755876:AAGNivWi8M6mDti6vZq2IWFqfYKMqNpv6-Q"
+Api_key = "insert youre Api key"
