@@ -1,3 +1,4 @@
+  
   Currency Translator Bot
   A bot that can learn the value of currencies and help transfer from one to another
       The following libraries were used when creating the bot:
@@ -20,7 +21,7 @@ this bot helping you translate:
 the bot has a built-in calculator that will help transfer any amount
 
 
-link on presentation - ([https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing))
+link on presentation - ([[https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing)](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing))
 
 
 The bot did:Bogdan Motorniuk
