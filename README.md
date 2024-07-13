@@ -1,4 +1,3 @@
-!(screen)[https://github.com/B0gdan1234/Currency_trans_bot/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG]  
   
   Currency Translator Bot
   A bot that can learn the value of currencies and help transfer from one to another
