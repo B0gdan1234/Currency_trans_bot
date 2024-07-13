@@ -1,1 +1,1 @@
-Api_key = "insert youre Api key"
+Api_key = "paste youre api key"
