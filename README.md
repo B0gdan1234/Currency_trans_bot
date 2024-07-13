@@ -1,4 +1,4 @@
-![Logo of the project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fsearch%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2BTelegram&psig=AOvVaw1z4SviiLq4GFKD1YM7BqgT&ust=1720939906750000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCqx_G2o4cDFQAAAAAdAAAAABAI)
+![Logo of the project]()
   
   
   Currency Translator Bot
