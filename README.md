@@ -1,4 +1,4 @@
-[Logo of the project](https://www.google.com/imgres?q=%D1%82%D0%B5%D0%BB%D0%B5%D0%B3%D1%80%D0%B0%D0%BC&imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F83%2FTelegram_2019_Logo.svg%2F1200px-Telegram_2019_Logo.svg.png&imgrefurl=https%3A%2F%2Fru.wikipedia.org%2Fwiki%2FTelegram&docid=0JqN3VoR-V3_CM&tbnid=7cPDrTshs6yn4M&vet=12ahUKEwio1YvJtqOHAxXDAtsEHa6hBPoQM3oECBMQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwio1YvJtqOHAxXDAtsEHa6hBPoQM3oECBMQAA)
+![Logo of the project](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fru%2Fsearch%3Fq%3D%25D0%25BB%25D0%25BE%25D0%25B3%25D0%25BE%25D1%2582%25D0%25B8%25D0%25BF%2BTelegram&psig=AOvVaw1z4SviiLq4GFKD1YM7BqgT&ust=1720939906750000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCqx_G2o4cDFQAAAAAdAAAAABAI)
   
   
   Currency Translator Bot
