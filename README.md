@@ -11,20 +11,20 @@ Currency Exchange Bot - це Telegram бот для перевірки курс�
     Зручний інтерфейс за допомогою інтерактивних кнопок
 
 Завантаження/початок
-Installing / Getting started
+Installing / Getting started;
 
-cd Currency_trans_bot
+cd Currency_trans_bot;
 
-python -m venv venv
+python -m venv venv;
 
 On Windows:
-venv\Scripts\activate
+venv\Scripts\activate;
 
 On macOS/Linux:
-source venv/bin/activate
+source venv/bin/activate;
 
-pip install -r requirements.txt
-python bot.py run
+pip install -r requirements.txt;
+python bot.py run;
 
 link on presentation - ([[https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit#slide=id.p1](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing)](https://docs.google.com/presentation/d/1wt6SzwFvorPC8ahKyT_M0A-HtjB79JSb2883xZ6TwfQ/edit?usp=sharing))
 
