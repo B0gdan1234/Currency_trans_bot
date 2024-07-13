@@ -1,4 +1,4 @@
-  
+![image](https://github.com/B0gdan1234/Currency_trans_bot/blob/main/Telegram_2019_Logo.svg.webp)  
 Currency Exchange Bot
 
 Опис
